@@ -1,7 +1,7 @@
 local module = DMod:new("improved_toolkit", {
 	abbr = "improvedtoolkit",
-	author = "questmatrix",
-	description = "https://github.com/questmatrix/improved-toolkit",
+	author = "qxxst",
+	description = "https://github.com/qxxst/improved-toolkit",
 	version = "0.1"
 })
 
